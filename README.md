@@ -1,6 +1,7 @@
 
 - I'm Arpon Basu
 - I’m currently studying computer science @IITB
+- Website: [https://rugiarindam.github.io/](https://rugiarindam.github.io/)
 - How to reach me: Feel free to contact me at abasu@cse.iitb.ac.in
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
